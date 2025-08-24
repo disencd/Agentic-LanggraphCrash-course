@@ -2,5 +2,5 @@ langgraph
 langchain
 langsmith
 python-dotenv
-langchain-groq 
+langchain-ollama 
 langchain_tavily
